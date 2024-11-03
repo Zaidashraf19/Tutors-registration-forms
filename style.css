@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-transform: uppercase;
+}
+ol {
+    text-transform: capitalize;
+}
+.container1 {
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+form {
+    text-transform: uppercase;
+}
+.Container2 {
+    text-transform: uppercase;
+    background-color: rgb(255, 255, 255, 1);
+    padding: 5px;
+    border: solid;
+}
